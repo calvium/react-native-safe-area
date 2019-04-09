@@ -6,10 +6,10 @@
 //  Copyright © 2017 Masayuki Iwai. All rights reserved.
 //
 
-#import <React/RCTEventEmitter.h>
-#import <React/RCTBridgeModule.h>
-#import <React/RCTBridge.h>
-#import <React/RCTUtils.h>
+#import "RCTEventEmitter.h"
+#import "RCTBridgeModule.h"
+#import "RCTBridge.h"
+#import "RCTUtils.h"
 
 #define RNSafeAreaInsetsForRootViewDidChangeNotification @"RNSafeAreaInsetsForRootViewDidChangeNotification"
 

@@ -243,6 +243,7 @@
 		6DA7B80D1F692C4C00FD1D50 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				HEADER_SEARCH_PATHS = "$(SRCROOT)/../../../node_modules/react-native/React/**";
 				OTHER_LDFLAGS = "-ObjC";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SKIP_INSTALL = YES;
@@ -253,6 +254,7 @@
 		6DA7B80E1F692C4C00FD1D50 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				HEADER_SEARCH_PATHS = "$(SRCROOT)/../../../node_modules/react-native/React/**";
 				OTHER_LDFLAGS = "-ObjC";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SKIP_INSTALL = YES;

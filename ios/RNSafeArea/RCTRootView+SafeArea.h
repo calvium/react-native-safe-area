@@ -6,7 +6,7 @@
 //  Copyright © 2017 Masayuki Iwai. All rights reserved.
 //
 
-#import <React/RCTRootView.h>
+#import "RCTRootView.h"
 
 @interface RCTRootView (SafeArea)
 

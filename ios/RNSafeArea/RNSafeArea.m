@@ -7,7 +7,7 @@
 //
 
 #import "RNSafeArea.h"
-#import <React/RCTRootView.h>
+#import "RCTRootView.h"
 
 @implementation RNSafeArea
 
